@@ -1,0 +1,14 @@
+{
+  "name": "sistema-completo",
+  "version": "1.0.0",
+  "description": "Sistema Mestre",
+  "main": "b0t-l0j1nh4/index.js",
+  "scripts": {
+    "start": "node b0t-l0j1nh4/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.7",
+    "fs": "0.0.1-security"
+  }
+}
