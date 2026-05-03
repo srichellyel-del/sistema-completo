@@ -2,7 +2,7 @@
   "name": "sistema-completo",
   "version": "1.0.0",
   "description": "Sistema Mestre",
-  "main": "b0t-l0j1nh4/index.js",
+  "main": "bot-lojinha/index.js",
   "scripts": {
     "start": "node bot-lojinha/index.js"
   },
