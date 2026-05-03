@@ -2,9 +2,9 @@
   "name": "sistema-completo",
   "version": "1.0.0",
   "description": "Sistema Mestre",
-  "main": "bot-lojinha/index.js",
+  "main": "b0t-l0j1nh4/index.js",
   "scripts": {
-    "start": "node bot-lojinha/index.js"
+    "start": "node b0t-l0j1nh4/index.js"
   },
   "dependencies": {
     "discord.js": "^14.14.1",
@@ -12,4 +12,3 @@
     "fs": "0.0.1-security"
   }
 }
-
