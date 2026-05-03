@@ -4,7 +4,7 @@
   "description": "Sistema Mestre",
   "main": "b0t-l0j1nh4/index.js",
   "scripts": {
-    "start": "node b0t-l0j1nh4/index.js"
+    "start": "node bot-lojinha/index.js"
   },
   "dependencies": {
     "discord.js": "^14.14.1",
