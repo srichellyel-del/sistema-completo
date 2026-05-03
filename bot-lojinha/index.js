@@ -18,7 +18,7 @@ const client = new Client({
 const KEY_MESTRE = "coelho09@09";
 
 // COLOQUE O TOKEN DO SEU BOT AQUI
-const TOKEN = "COLOQUE_SEU_TOKEN_AQUI";
+token: process.env.DISCORD_TOKEN
 
 // ==================================
 //        BANCO DE DADOS
