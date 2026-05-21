@@ -1,14 +1,16 @@
 {
-  "name": "sistema-completo",
-  "version": "1.0.0",
-  "description": "Sistema Mestre",
-  "main": "bot-lojinha/index.js",
+  "name": "joryel-apostas-org",
+  "version": "1.3.0",
+  "description": "Sistema Profissional de Apostas e Arenas - JORYEL APOSTAS & ORG",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
-    "start": "node bot-lojinha/index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^14.14.1",
-    "sqlite3": "^5.1.7",
-    "fs": "0.0.1-security"
+    "sqlite3": "^5.1.7"
   }
 }
